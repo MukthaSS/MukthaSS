@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Muktha SS
 
-![Profile Views](https://komarev.com/ghpvc/?username=MukthaSS)
-
 ### 🌱 Aspiring ML & Data Science Enthusiast
 
 🔭 I’m currently working on personal projects like **milk quality prediction**, **spam classification**, and **shopping trends analysis**.  

@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Muktha SS
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=MukthaSS)
 
 ### 🌱 Aspiring ML & Data Science Enthusiast
 
